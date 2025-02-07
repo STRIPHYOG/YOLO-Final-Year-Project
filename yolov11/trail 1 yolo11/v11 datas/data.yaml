@@ -1,0 +1,13 @@
+train: /content/datasets/Craters-yolo-1/train
+val: /content/datasets/Craters-yolo-1/valid
+test: /content/datasets/Craters-yolo-1/test
+
+nc: 1
+names: ['Craters']
+
+roboflow:
+  workspace: iter-qevob
+  project: craters-yolo
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/iter-qevob/craters-yolo/1

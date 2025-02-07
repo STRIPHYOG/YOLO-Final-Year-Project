@@ -1,0 +1,13 @@
+train: /content/datasets/creater-2/train
+val: /content/datasets/creater-2/valid
+test: /content/datasets/creater-2/test
+
+nc: 2
+names: ['canyon', 'crater']
+
+roboflow:
+  workspace: -uxyyd
+  project: creater
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/-uxyyd/creater/dataset/2

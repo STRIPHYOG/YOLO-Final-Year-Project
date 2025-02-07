@@ -1,0 +1,26 @@
+https://universe.roboflow.com/-uxyyd/creater/dataset/2
+
+Dataset Split
+Train Set
+89%
+933 Images
+
+Valid Set
+7%
+75 Images
+
+Test Set
+4%
+37 Images
+
+
+
+Preprocessing
+Auto-Orient: Applied
+Resize: Stretch to 416x416
+Grayscale: Applied
+Augmentations
+Outputs per training example: 3
+Flip: Horizontal
+Rotation: Between -15° and +15°
+Noise: Up to 5% of pixels
