@@ -1,0 +1,2 @@
+Best Model: YOLOv8
+Highest Accuracy (mAP50-95): 0.3558
